@@ -11,4 +11,8 @@ class MyServer
   end
 end
 
+<<<<<<< HEAD
 run MyServer.new
+=======
+#run MyServer.new
+>>>>>>> 05c78828321c6d41b363435a3d8528cf7605167f
